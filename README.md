@@ -24,3 +24,4 @@ Now you're ready to use the library management system.
 ## Additional Notes
 - Make sure to adjust the path to the MySQL bin directory according to your installation.
 - If you encounter any issues during setup or have questions, feel free to reach out for assistance at email: araintayyabaabbas@gmail.com
+- haniyaume0@gmail.com
